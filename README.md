@@ -1,0 +1,2 @@
+# SoftUni-blog
+exercise
